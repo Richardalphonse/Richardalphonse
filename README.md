@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 👋 Hi, I do have multiple names like AI/ML Engineer, Data Scientist and Python Developer
+- 🧑🏼‍💻 Data Science & Artificial Intelligence is my core subject areas & I face them every single day in my career.
+- 🎓 Got a Masters in Business Administration and Bachelors in Mathematics.
+- 🔕 Yes, I had many funs, errors, successes, failures with the different types of data, problems, solutions, Proof of concepts and developments.
+- 👀 I’m interested in solving the business problems through insights from the data.
+- 🦾 I do work with collaborative projects and self-learning stuffs.
+- 📫 Mail me: richardriche96@gmail.com
 
 <!--
 **Richardalphonse/Richardalphonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
